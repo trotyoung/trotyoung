@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👨🏻‍💻 I am Alwyn
+- 🔭 Currently a M.S. of Computer Science in Drexel University
+- 🌱 Practicing English
+- 📫 How to reach me: [trotyoung](trotyoung@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: STEM student but love Literature and History
