@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I am Alwyn
 - 🔭 Currently a M.S. of Computer Science in Drexel University
 - 🌱 Practicing English
-- 📫 How to reach me: [trotyoung](trotyoung@gmail.com)
+- 📫 How to reach me: <a href="mailto:trotyoung@gmail.com">email to trotyoung</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: STEM student but love Literature and History
